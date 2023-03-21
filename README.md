@@ -14,8 +14,8 @@ Path Finding Visualiser currently supports the following pathfinding algorithms:
 -   Left mouse button: set a node  
 -   Right mouse button: erase a node
 ###### Keyboard: 
--   Space: Start the game 
--   R: Restart the game
+-   Space: Start game 
+-   R: Restart game
 -   1: Choose A* algorithm 
 -   2: Choose Dijkstra algorithm 
 -   3: Choose Depth first search algorithm
