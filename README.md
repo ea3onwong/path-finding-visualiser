@@ -9,16 +9,16 @@ Path Finding Visualiser currently supports the following pathfinding algorithms:
 3. Depth first search algorithm
 4. Breath first search algorithm
 
-### A* algorithm 
+### A* algorithm: 
 <img src="images/a-star.gif" width="500">
 
-### Dijkstra algorithm 
+### Dijkstra algorithm:
 <img src="images/dijkstra.gif" width="500">
 
-### Depth first search algorithm
+### Depth first search algorithm:
 <img src="images/dfs.gif" width="500">
 
-### Breath first search algorithm
+### Breath first search algorithm:
 <img src="images/bfs.gif" width="500">
 
 ### Basic Commands:
