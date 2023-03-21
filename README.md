@@ -1,7 +1,6 @@
 # Path Finding Visualiser
 Path Finding Visualiser is a tool that allows users to visualise various pathfinding algorithms in action.
 
-
 ### Features:
 Path Finding Visualiser currently supports the following pathfinding algorithms:
 
